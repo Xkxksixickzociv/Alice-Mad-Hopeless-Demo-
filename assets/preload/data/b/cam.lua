@@ -1,0 +1,18 @@
+--function onMoveCamera(focus)
+    --if curBeat == 0 then
+  --  if focus == 'boyfriend' then
+--        setProperty('defaultCamZoom', 0.92)
+  --  else
+   --     setProperty('defaultCamZoom', 0.75)
+  --  end
+  --  function onMoveCamera(focus)
+  --  if curBeat == 160 then
+    --if focus == 'boyfriend' then
+        --setProperty('defaultCamZoom', 0.89)
+    --else
+        --setProperty('defaultCamZoom', 0.75)
+  --  end
+
+ --   end
+ -- end
+--end
