@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Dum.png">
+<SubTexture name="Dum_Down0000" x="2682" y="688" width="360" height="687" frameX="-518" frameY="-352" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="Dum_Down0001" x="2322" y="0" width="360" height="695" frameX="-518" frameY="-344" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="Dum_Down0002" x="1946" y="730" width="361" height="696" frameX="-517" frameY="-343" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="Dum_Down0003" x="1742" y="1516" width="363" height="696" frameX="-515" frameY="-343" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="Dum_Idle0000" x="1946" y="0" width="376" height="730" frameX="-492" frameY="-326" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="Dum_Idle0001" x="1510" y="768" width="379" height="733" frameX="-495" frameY="-323" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="Dum_Idle0002" x="754" y="768" width="378" height="739" frameX="-499" frameY="-317" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="Dum_Idle0003" x="1132" y="768" width="378" height="739" frameX="-500" frameY="-317" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="Dum_Idle0004" x="377" y="768" width="377" height="746" frameX="-498" frameY="-310" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="Dum_Idle0005" x="0" y="768" width="377" height="748" frameX="-496" frameY="-308" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="Dum_Left0000" x="2682" y="1375" width="557" height="686" frameX="-416" frameY="-351" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="Dum_Left0001" x="555" y="2238" width="552" height="681" frameX="-419" frameY="-356" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="Dum_Left0002" x="0" y="2238" width="555" height="686" frameX="-416" frameY="-351" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="Dum_Left0003" x="2682" y="0" width="557" height="688" frameX="-414" frameY="-349" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="Dum_Right0000" x="0" y="0" width="479" height="768" frameX="-419" frameY="-303" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="Dum_Right0001" x="1461" y="0" width="485" height="755" frameX="-419" frameY="-316" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="Dum_Right0002" x="970" y="0" width="491" height="759" frameX="-419" frameY="-312" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="Dum_Right0003" x="479" y="0" width="491" height="764" frameX="-419" frameY="-307" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="Dum_Up0000" x="0" y="1516" width="435" height="722" frameX="-451" frameY="-327" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="Dum_Up0001" x="435" y="1516" width="430" height="720" frameX="-452" frameY="-329" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="Dum_Up0002" x="865" y="1516" width="437" height="711" frameX="-449" frameY="-338" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="Dum_Up0003" x="1302" y="1516" width="440" height="701" frameX="-446" frameY="-348" frameWidth="1400" frameHeight="1400" />
+</TextureAtlas>

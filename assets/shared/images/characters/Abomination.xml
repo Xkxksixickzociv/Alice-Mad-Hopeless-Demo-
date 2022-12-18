@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Abomination.png">
+<SubTexture name="Down0000" x="2509" y="2658" width="611" height="671" frameX="-178" frameY="-79" frameWidth="849" frameHeight="807" />
+<SubTexture name="Down0001" x="1889" y="2658" width="620" height="703" frameX="-182" frameY="-43" frameWidth="849" frameHeight="807" />
+<SubTexture name="Down0002" x="1269" y="2658" width="620" height="705" frameX="-183" frameY="-41" frameWidth="849" frameHeight="807" />
+<SubTexture name="Idle0000" x="636" y="2658" width="633" height="798" frameX="-3" frameY="-32" frameWidth="653" frameHeight="830" />
+<SubTexture name="Idle0001" x="0" y="2658" width="636" height="799" frameX="-3" frameY="-31" frameWidth="653" frameHeight="830" />
+<SubTexture name="Idle0002" x="3109" y="0" width="609" height="803" frameX="-14" frameY="-27" frameWidth="653" frameHeight="830" />
+<SubTexture name="Idle0003" x="0" y="1840" width="584" height="818" frameX="-23" frameY="-12" frameWidth="653" frameHeight="830" />
+<SubTexture name="Idle0004" x="2533" y="0" width="576" height="821" frameX="-26" frameY="-9" frameWidth="653" frameHeight="830" />
+<SubTexture name="Left0000" x="1676" y="0" width="857" height="923" frameX="0" frameY="-28" frameWidth="863" frameHeight="951" />
+<SubTexture name="Left0001" x="838" y="0" width="838" height="939" frameX="-24" frameY="-12" frameWidth="863" frameHeight="951" />
+<SubTexture name="Left0002" x="0" y="0" width="838" height="943" frameX="-24" frameY="-8" frameWidth="863" frameHeight="951" />
+<SubTexture name="Right0000" x="584" y="1840" width="815" height="813" frameX="-90" frameY="0" frameWidth="944" frameHeight="836" />
+<SubTexture name="Right0001" x="2182" y="1840" width="784" height="812" frameX="-91" frameY="0" frameWidth="944" frameHeight="836" />
+<SubTexture name="Right0002" x="1399" y="1840" width="783" height="813" frameX="-92" frameY="0" frameWidth="944" frameHeight="836" />
+<SubTexture name="Up0000" x="0" y="943" width="677" height="897" frameX="-379" frameY="-66" frameWidth="1080" frameHeight="963" />
+<SubTexture name="Up0001" x="677" y="943" width="682" height="875" frameX="-366" frameY="-88" frameWidth="1080" frameHeight="963" />
+<SubTexture name="Up0002" x="1359" y="943" width="684" height="872" frameX="-363" frameY="-91" frameWidth="1080" frameHeight="963" />
+</TextureAtlas>
