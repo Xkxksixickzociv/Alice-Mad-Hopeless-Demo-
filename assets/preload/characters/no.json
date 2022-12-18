@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				17
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Dee_Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/no",
+	"position": [
+		-130,
+		-260
+	],
+	"healthicon": "nd",
+	"flip_x": true,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		220,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

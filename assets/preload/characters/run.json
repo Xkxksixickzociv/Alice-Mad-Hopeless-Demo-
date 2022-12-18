@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				11,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "AbmWalk",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/run",
+	"position": [
+		380,
+		280
+	],
+	"healthicon": "ab",
+	"flip_x": false,
+	"healthbar_colors": [
+		74,
+		73,
+		63
+	],
+	"camera_position": [
+		-40,
+		-150
+	],
+	"sing_duration": 10.5,
+	"scale": 1.8
+}

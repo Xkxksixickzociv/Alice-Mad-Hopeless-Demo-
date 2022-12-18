@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "Dum_Idle"
+		},
+		{
+			"offsets": [
+				162,
+				-18
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Dum_Left"
+		},
+		{
+			"offsets": [
+				-121,
+				37
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Dum_Right"
+		},
+		{
+			"offsets": [
+				25,
+				13
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Dum_Down"
+		},
+		{
+			"offsets": [
+				-28,
+				40
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Dum_Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dum",
+	"position": [
+		-160,
+		-40
+	],
+	"healthicon": "mom",
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		85,
+		142
+	],
+	"camera_position": [
+		-40,
+		-600
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}
